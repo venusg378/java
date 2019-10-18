@@ -1,0 +1,46 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Areaoftriangle",
+            "request": "launch",
+            "mainClass": "Areaoftriangle",
+            "projectName": "java_basic"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - first",
+            "request": "launch",
+            "mainClass": "first",
+            "projectName": "java_basic"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - greater",
+            "request": "launch",
+            "mainClass": "greater",
+            "projectName": "java_basic"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - second",
+            "request": "launch",
+            "mainClass": "second",
+            "projectName": "java_basic"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - program4",
+            "request": "launch",
+            "mainClass": "program4",
+            "projectName": "java_basic"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - second",
+            "request": "launch",
+            "mainClass": "second",
+            "projectName": "basic_fae07e79"
+        }
+    ]
+}
