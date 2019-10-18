@@ -18,7 +18,7 @@ class greater
         {
             System.out.println("the both "+num1+" and "+num2+"are same");
         }
-        //hi i love my program 
+        System.out.println("hi hello");
 
         
     }
